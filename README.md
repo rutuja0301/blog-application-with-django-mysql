@@ -1,28 +1,20 @@
 🔧 Features
-User Registration & Login using JWT
 
-Create, edit, delete blog posts
-
-View individual post details
-
-Like & share posts (AJAX powered)
-
-Comment system with live updates
-
-Search functionality for blog posts
-
-Mobile-responsive design with Bootstrap
-
-Admin panel to manage posts and users
+- User Registration & Login using JWT
+- Create, Edit, and Delete Blog Posts
+- View Individual Post Details
+- Like & Share Posts (AJAX powered)
+- Comment System with Live Updates
+- Search Functionality for Blog Posts
+- Mobile-Responsive Design with Bootstrap 5
+- Admin Panel to Manage Posts and Users
 
 🛠️ Tech Stack
-Backend: Django REST Framework, MySQL
 
-Frontend: Django Templates, Bootstrap 5, JavaScript (AJAX)
-
-Authentication: JWT (SimpleJWT)
-
-Deployment Ready: Environment variable support via .env
+- Backend: Django REST Framework, MySQL
+- Frontend: Django Templates, Bootstrap 5, JavaScript (AJAX)
+- Authentication: JWT (SimpleJWT)
+- Deployment Ready: Environment variable support via .env
 
 # Clone the repo
 git clone https://github.com/your-username/blog-application-with-django-mysql.git
