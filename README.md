@@ -17,7 +17,7 @@
 - Deployment Ready: Environment variable support via .env
 
 # Clone the repo
-- git clone [https://github.com/your-username/blog-application-with-django-mysql.git](https://github.com/rutuja0301/blog-application-with-django-mysql.git)
+- git clone https://github.com/rutuja0301/blog-application-with-django-mysql.git
 - cd blog-application-with-django-mysql
 
 # Create virtual environment & activate
