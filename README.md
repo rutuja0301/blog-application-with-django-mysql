@@ -1,17 +1,27 @@
 🔧 Features
 User Registration & Login using JWT
+
 Create, edit, delete blog posts
+
 View individual post details
+
 Like & share posts (AJAX powered)
+
 Comment system with live updates
+
 Search functionality for blog posts
+
 Mobile-responsive design with Bootstrap
+
 Admin panel to manage posts and users
 
 🛠️ Tech Stack
 Backend: Django REST Framework, MySQL
+
 Frontend: Django Templates, Bootstrap 5, JavaScript (AJAX)
+
 Authentication: JWT (SimpleJWT)
+
 Deployment Ready: Environment variable support via .env
 
 # Clone the repo
