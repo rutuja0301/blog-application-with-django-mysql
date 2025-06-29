@@ -5,3 +5,5 @@ blog_app/__pycache__
 blog_app/migrations
 
 blog_core/__pycache__
+
+.env
