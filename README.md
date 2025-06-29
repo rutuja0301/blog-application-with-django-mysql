@@ -1,0 +1,1 @@
+# blog-application-with-django-mysql
